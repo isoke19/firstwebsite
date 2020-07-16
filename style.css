@@ -1,5 +1,5 @@
 body {
-    background-color: #88d8c0;
+    background-color: #88d8c0 ;
 }
 h1 {
   text-align: center;
@@ -18,13 +18,13 @@ h1 {
     margin: 0 10px;
 }
 .social-menu ul li .fa {
-    color: #000000;
+    color: #88d8c0;
     font-size: 25px;
     line-height: 50px;
     transition: .5s;
 }
 .social-menu ul li .fa:hover {
-    color: #ffffff;
+    color: #88d8c0;
 }
 .social-menu ul li a {
     position: relative;
@@ -42,17 +42,17 @@ h1 {
     transform: rotate(0deg) skew(0deg) translate(0, -10px);
 }
 .social-menu ul li:nth-child(1) a:hover {
-    background-color: #3b5999;
+    background-color: #88d8c0;
 }
 .social-menu ul li:nth-child(2) a:hover {
-    background-color: #55acee;
+    background-color: #dc85ff;
 }
 .social-menu ul li:nth-child(3) a:hover {
-    background-color: #e4405f;
+    background-color: #88d8c0;
 }
 .social-menu ul li:nth-child(4) a:hover {
-    background-color: #cd201f;
+    background-color: #88d8c0;
 }
 .social-menu ul li:nth-child(5) a:hover {
-    background-color: #0077B5;
+    background-color: #88d8c0;
 }
