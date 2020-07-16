@@ -32,6 +32,9 @@ function draw() {
     background(144, 0, 255);
     noStroke();
     fill(255, 186, 0);
+   clear();
+  let display = touches.length + ' touches';
+  text(display, 5, 10);
 
     if (lives == 3) {
       ellipse(30, 30, 30);
