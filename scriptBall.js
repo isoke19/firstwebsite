@@ -140,7 +140,7 @@ function draw() {
         lives = 3; // lives
         score = 0;
         yPos_red = 200;
-
+ 
         line1_x = 440;
         line1_y = random(100, 350);
         line1_length = random(20, 320);
