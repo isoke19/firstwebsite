@@ -135,7 +135,7 @@ function draw() {
         GameOn = true; //Make true
         decreaseLength_line1 = 1;
         decreaseLength_line2 = 1;
-        lives = 3; // lives
+        lives = 5; // lives
         score = 0;
         yPos_red = 200;
  
