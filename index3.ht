@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang = "en">
+  <head>
+    <title>Chat with me</title>
+    <meta charset = "UTF-8"> 
+    <meta name = "viewpoint" content "width=device-width, intital-scale=1.0">
+    <title> Socials </title>
+    <link rel = "stylesheet" href = "style.css">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous" 
+    rel= "stylesheet">
+    
+    <style> 
+ 
+body {
+
+background-color: purple;
+
+
+}
+
+
+
+</style>
+  </head>
+
+ 
+  <body>
+  
+       <div class="social-menu">
+  <h1>Share your favorites with met</h1>
+  <ul>
+    <li><a href=""><i class="fa fa-facebook"></i></a></li>
+    <li><a href=""><i class="fa fa-twitter"></i></a></li>
+    <li><a href=""><i class="fa fa-instagram"></i></a></li>
+  </ul>
+</div>       
+       
+       
+    <a href="index3.html"> Next</a>
+  </body>
+</html>
+
+
+
+
